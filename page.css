@@ -1,0 +1,21 @@
+.card{
+    padding: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.card-titleintro{
+    text-align: center;
+
+}
+
+.card-textintro{
+    text-align: center;
+   
+}
+
+
+.card-buttonintro{
+    text-align: center;
+}
+
